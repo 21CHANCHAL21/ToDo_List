@@ -11,3 +11,7 @@ Steps to Run the Application:
 "npm install bootstrap"
 
 "npm install react-bootstrap"
+
+**Step-4** Now replace your's "public" and "src" folder with mine folder.
+
+**Step-5** Now Run it using "npm start" command.
